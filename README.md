@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/simonbiennier/sakai">
-    ![](https://github.com/simonbiennier/sakai/public/logo.svg)
+    ![Test](https://github.com/simonbiennier/sakai/public/logo.svg)
   </a>
 
 <h3 align="center">Sakai Typescript</h3>
