@@ -1,5 +1,4 @@
 import { FC } from "react";
-import { GiHoodedAssassin } from "react-icons/gi";
 import { IconBaseProps } from "react-icons/lib";
 import { TfiInfinite } from "react-icons/tfi";
 
