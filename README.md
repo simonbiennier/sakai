@@ -9,7 +9,7 @@
 
 <h3 align="center">Sakai Typescript</h3>
   <p align="center">
-    A typescript version of <a href="https://github.com/primefaces/sakai-react">Sakai React</a>
+    A <a href="https://www.typescriptlang.org/">TypeScript</a> version of <a href="https://github.com/primefaces/sakai-react">Sakai React</a>
     <br />
     <br />
     <a href="https://www.primefaces.org/sakai-react/"><strong>View Demo »</strong></a>
