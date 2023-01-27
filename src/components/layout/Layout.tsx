@@ -143,13 +143,13 @@ const Layout: FC<LayoutProps> = (props) => {
   return (
     <>
       <Head>
-        <title>TEMPLATE</title>
+        <title>SAKAI</title>
         <meta charSet="UTF-8" />
         <meta name="description" content="" />
         <meta name="robots" content="index, follow" />
         <meta name="viewport" content="initial-scale=1, width=device-width" />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="Template by Simon Biennier" />
+        <meta property="og:title" content="Sakai variant by Simon Biennier" />
         <meta property="og:description" content="" />
         <meta property="og:ttl" content="604800" />
         <link rel="icon" href={`/favicon.ico`} type="image/x-icon" />

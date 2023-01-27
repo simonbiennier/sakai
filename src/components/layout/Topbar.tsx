@@ -99,7 +99,7 @@ const Topbar: FC<TopbarContent> = forwardRef((_, ref) => {
       <Link href="/">
         <a className="layout-topbar-logo">
           <Logo size={35} className="mr-2" />
-          <span className="ml-2">TEMPLATE</span>
+          <span className="ml-2">SAKAI</span>
         </a>
       </Link>
 

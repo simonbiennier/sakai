@@ -20,7 +20,7 @@ const Landing = () => {
             <a className="flex align-items-center">
               <Logo size={50} className="mr-0 lg:mr-2" />
               <span className="text-900 font-medium text-2xl line-height-3 mr-8">
-                TEMPLATE
+                SAKAI
               </span>
             </a>
           </Link>
@@ -690,9 +690,7 @@ const Landing = () => {
                     height="50"
                     className="mr-2"
                   />
-                  <span className="font-medium text-3xl text-900">
-                    TEMPLATE
-                  </span>
+                  <span className="font-medium text-3xl text-900">SAKAI</span>
                 </a>
               </Link>
             </div>

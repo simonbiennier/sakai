@@ -1,9 +1,10 @@
 import { FC } from "react";
+import { GiHoodedAssassin } from "react-icons/gi";
 import { IconBaseProps } from "react-icons/lib";
-import { BsChat } from "react-icons/bs";
+import { TfiInfinite } from "react-icons/tfi";
 
 const Logo: FC<IconBaseProps> = (props) => {
-  return <BsChat {...props} />;
+  return <TfiInfinite {...props} />;
 };
 
 export default Logo;
