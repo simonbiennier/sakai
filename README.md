@@ -1,9 +1,10 @@
 <a name="readme-top"/>
 
 <br />
+
 <div align="center">
   <a href="https://github.com/simonbiennier/sakai">
-    ![Test](https://github.com/simonbiennier/sakai/public/logo.svg)
+    <img src="public/logo.svg" width="100" height="100" />
   </a>
 
 <h3 align="center">Sakai Typescript</h3>
